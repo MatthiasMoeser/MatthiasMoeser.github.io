@@ -9,6 +9,7 @@ Climate change, debating and start-up companies moved into my focus, while study
 Complex systems and programming was added to the list while I studied [Human Decision Science](https://www.maastrichtuniversity.nl/education/master/master-human-decision-science) in Maastricht, Netherlands.
 
 ### What I strive for
+I believe every human should own their carbon footprint. That is a long way.
 
 My current learning goals are
 - expanding knowledge of product management methods and techniques
