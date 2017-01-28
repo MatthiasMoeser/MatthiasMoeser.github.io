@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: This is what happens when Pelican is too complicated for you
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Welcome everyone to my blog on github pages. This might finally work out and eventually gather some thoughts which I indend to share with the world public via this channel.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Thanks to [Barry Clark](https://github.com/barryclark) who sufficiently dumbed down for me the needed steps to get this thing working in [his article here](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Happy overcoming doubt!
